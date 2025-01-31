@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c6e4ff;
+    padding: 20px;
+    margin: 0;
+}
+
+p {
+    font-family:Verdana;
+    background-color: #b5dcff;
+}
+
+h1 {
+    color: #1f1f1f;
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+button {
+    font-size: 12px;
+    background-color: #224a86;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    width: 120px;
+}
+
+button:hover {
+    background-color: #3375b7;
+}
+
+.recipe-item {
+    background: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
